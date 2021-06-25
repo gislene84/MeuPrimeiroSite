@@ -303,7 +303,7 @@ body {
         background-image: url('../img/telefoneico.png');
     }
     /*media queries*/  
-    @media (max-width: 2.560px){
+    @media (max-width: 320px){
         html{
             font-size: 50%;
         }
